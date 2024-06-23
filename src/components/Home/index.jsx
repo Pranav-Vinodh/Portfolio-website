@@ -66,7 +66,6 @@ const Home = () => {
         <Link to="/contact" className="flat-button">
           CONTACT ME
         </Link>
-        <Logo></Logo>
       </div>
       <img className="pfp" src={pfp} />
     </div>
